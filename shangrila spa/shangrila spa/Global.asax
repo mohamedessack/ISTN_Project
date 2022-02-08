@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="shangrila_spa.Global_asax" Language="VB" %>

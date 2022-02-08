@@ -1,0 +1,737 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Spa Appointment Management System
+</name>
+</assembly>
+<members>
+<member name="T:Spa_Appointment_Management_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.Customer">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.btnNext_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.btnNext2_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.btnPrevious_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.btnPrevious2_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox3_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox3_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox4_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox4_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox7_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.BunifuTextbox7_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Customer_ID_UserAddedColumn">
+<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.CUSTOMERBindingSource_TrayLocation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=17,Y=17}.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.CUSTOMERTableAdapter_TrayLocation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=328,Y=17}.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.EmailTextBox1_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.EmailTextBox1_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.EmailTextBox1_Locked">
+<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton1_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton2_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton3_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton4_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton5_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton6_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton7_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.GunaCircleButton8_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.MetroTextBox7_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.PictureBox1_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.PictureBox2_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.ShangrilaDS_TrayLocation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=211,Y=17}.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox1_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox1_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox2_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox2_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox6_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox6_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox7_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox7_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox8_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.Textbox8_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.ToolTip1_TrayLocation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=516,Y=17}.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.ZipCodeTextBox_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spa_Appointment_Management_System.Customer.ZipCodeTextBox_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.APPOINTMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMER_FEEDBACKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.LINE_ITEMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCT_TYPEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PROMOTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICE_TYPEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_ABSENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_SERVICEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SUPPLIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTUpdateAppointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTServiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAbsentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ServicePromotionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ProductPromotionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.InvoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.dtViewAppointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAppointmentViewerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.APPOINTMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMER_FEEDBACKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.LINE_ITEMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCT_TYPERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PROMOTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICE_TYPERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_ABSENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_SERVICERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SUPPLIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTUpdateAppointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTServiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAbsentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ServicePromotionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ProductPromotionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.InvoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.dtViewAppointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAppointmentViewerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.APPOINTMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.CUSTOMER_FEEDBACKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.LINE_ITEMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PRODUCT_TYPERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.PROMOTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SERVICE_TYPERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_ABSENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.STAFF_SERVICERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.SUPPLIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTUpdateAppointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTServiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAbsentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ServicePromotionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.ProductPromotionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.InvoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.dtViewAppointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDS.DTAppointmentViewerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.APPOINTMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.CUSTOMERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.CUSTOMER_FEEDBACKTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.LINE_ITEMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.PRODUCTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.PRODUCT_TYPETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.PROMOTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.SERVICETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.SERVICE_TYPETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.STAFFTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.STAFF_ABSENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.STAFF_SERVICETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.SUPPLIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.DTUpdateAppointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.DTProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.DTServiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.DTAbsentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.ServicePromotionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.ProductPromotionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.InvoiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.dtViewAppointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.DTAppointmentViewerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Spa_Appointment_Management_System.ShangrilaDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.UpdateInsertedRows(Spa_Appointment_Management_System.ShangrilaDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.UpdateDeletedRows(Spa_Appointment_Management_System.ShangrilaDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.UpdateAll(Spa_Appointment_Management_System.ShangrilaDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Spa_Appointment_Management_System.ShangrilaDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
