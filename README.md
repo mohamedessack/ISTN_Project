@@ -11,3 +11,5 @@ Developed a dashboard using Crystal reports<br />]
 
 Developed a front-end system that allows customers to book appointments and purchase items from the spa.<br />
 Received an overall project mark of 71% <br />
+<br />
+NOTE: This project is a property of UKZN, hence I do not have access to the project anymore due to expired licences. For any queries please contact my mentor MPHO- 060 337 1570. Group 21- Year 2020
